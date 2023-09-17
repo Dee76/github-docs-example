@@ -42,9 +42,10 @@ result = factorial(5)
 puts "Factorial of 5 is #{result}"
 ```
 
-- Make note of where the _backtick_ button is located.
+- Make note of where the _backtick_ key is located.
 - It should appear above the _tab_ key, but it may vary based on your keyboard layout.
-  ![Backtick Key](https://i.stack.imgur.com/ETTnT.jpg)
+
+  ![Photo of part of a keyboard with the backtick key circled](assets/backtick-key.jpg)
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -88,7 +89,10 @@ You can use the following Markdown format to create tables:
 
 GitHub extends the functinality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
-![Pipe Key](https://emleddin.github.io/comp-chem-website/images/UNIXguide/pipe.png)
+* Make note of where the _pipe_ key is located.
+* It should appear above the _return_ or _enter_ key, but it may vary based on your keyboard layout.
+
+  ![Photo of part of a keyboard with the pipe key circled](assets/pipe-key.jpg)
 
 ## External References
 
