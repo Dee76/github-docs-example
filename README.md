@@ -160,6 +160,8 @@ GitHub extends the functinality of Markdown tables to provide more alignment and
 
   ![Photo of part of a keyboard with the pipe key circled](assets/pipe-key.jpg)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## External References
 
 * [GitHub Flavored Markdown spec](https://github.github.com/gfm)
