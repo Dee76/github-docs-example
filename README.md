@@ -57,6 +57,15 @@ NameError (undefined local variable or method `undefined_variable' for main:Obje
 
 > Here is an example of using a codeblock for an error that appears in _bash_.
 
+## Step 2 - How to Take Screenshots
+
+A screenshot is when you cpature a part of your screen from your laptop, desktop, or phone.
+
+This is not to be confused with taking a photo of your screen with your phone.
+
+***DON'T DO THIS!***
+
+
 ## Step 3 - Use GitHub Flavored Task Lists
 
 GitHub extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
